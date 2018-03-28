@@ -11,3 +11,8 @@
 body{
     background:grey;
 }
+.col-md-4{
+    background: blueviolet;
+    height: 50%;
+    
+}
