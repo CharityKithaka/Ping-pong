@@ -13,6 +13,7 @@ body{
 }
 .col-md-4{
     background: blueviolet;
-    height: 50%;
+    height: 100vh;
+    margin-left: -100px;
     
 }
