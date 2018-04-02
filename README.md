@@ -21,6 +21,16 @@ cd ping-pong
 ## Known Bugs
 No known bugs
 
+## Specifications
+*input*
+Any number can be added to output the required results.
+
+*output*
+It outputs numbers divisible by 3, 5 and 15
+* If a number is divisible by 3 it outputs ping
+* If a number is divisible by 5 it outputs pong
+* If a number is divisible by 15 it outputs pingpong
+
 ## Technologies Used
 * HTML
 * CSS
