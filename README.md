@@ -32,14 +32,14 @@ It outputs numbers divisible by 3, 5 and 15
 *If a number is divisible by 15 it outputs pingpong
 
 ## Technologies Used
-*HTML
-*CSS
-*JavaScript
-*JQuery
+* HTML
+* CSS
+* JavaScript
+* JQuery
 
-##Support and contact details
-Email : shikez17@gmail.com
+## Support and contact details
+Email : shikez17(at)gmail(dot)com
 
-###License
+### License
 *MIT*
 Copyright (c) 2018 **Charity Kithaka**
