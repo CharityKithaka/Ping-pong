@@ -3,7 +3,7 @@
 
 #### A ping-pong application in JavaScript, 29/03/2018
 
-#### By **Charity Kithaka**
+#### By **James Njenga**
 
 ## Description
 A Ping-pong application written with JavaScript to practice JavaScript and JQuery. It is also written with CSS to practice bootstrap and styles.css
